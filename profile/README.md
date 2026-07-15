@@ -70,7 +70,7 @@ For technical users, tradingview api is often part of the broader research proce
 
 TradingView App works best for people who value visual market review and want one place for charts, watchlists, alerts, and news. A beginner may start with tradingview free and ask is tradingview free before exploring plan limits. A more active user may compare tradingview price, install tradingview desktop app, and keep tradingview mobile app ready for alerts during the day.
 
-![TradingView App workspace showing watchlists, chart panels, and market alerts]([https://www.criptonoticias.com/wp-content/uploads/2023/09/MicrosoftTeams-image-12-750x375.jpg](https://s.tradingview.com/static/images/illustrations/desktop-landing.jpg))
+![TradingView App workspace showing watchlists, chart panels, and market alerts](https://s3-alpha.figma.com/hub/file/1577020029/a23cc2ab-2be2-4cb5-ab01-a6cde43571d0-cover.png)
 
 ## Setup Questions and Practical Fixes
 
